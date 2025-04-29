@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="pgiMqyUjf4aCU3Kz9-66">
-    <mxGraphModel dx="1429" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="833" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="15" y="98" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iwBYStO_40tfpdYds1Tp-3" value="name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="iwBYStO_40tfpdYds1Tp-1" vertex="1">
-          <mxGeometry x="20" y="68" width="50" height="30" as="geometry" />
+          <mxGeometry x="15" y="68" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iwBYStO_40tfpdYds1Tp-5" value="Doctor" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="520" y="40" width="200" height="200" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="5" y="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iwBYStO_40tfpdYds1Tp-8" value="Phone number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="iwBYStO_40tfpdYds1Tp-5" vertex="1">
-          <mxGeometry x="5" y="140" width="100" height="30" as="geometry" />
+          <mxGeometry x="10" y="140" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iwBYStO_40tfpdYds1Tp-6" value="ID {PK}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="iwBYStO_40tfpdYds1Tp-5" vertex="1">
           <mxGeometry x="10" y="38" width="60" height="30" as="geometry" />
@@ -139,7 +139,7 @@
         <mxCell id="SlIInPcPAZ8TnYqFgtZE-10" value="1..1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SlIInPcPAZ8TnYqFgtZE-11" value="1..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="SlIInPcPAZ8TnYqFgtZE-11" value="1..1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SlIInPcPAZ8TnYqFgtZE-12" value="1..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -169,7 +169,7 @@
         <mxCell id="SlIInPcPAZ8TnYqFgtZE-25" value="Has" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="830" y="445" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SlIInPcPAZ8TnYqFgtZE-26" value="1..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="SlIInPcPAZ8TnYqFgtZE-26" value="1..1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SlIInPcPAZ8TnYqFgtZE-27" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
