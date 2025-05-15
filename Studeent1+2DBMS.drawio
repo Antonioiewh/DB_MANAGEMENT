@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="pgiMqyUjf4aCU3Kz9-66">
-    <mxGraphModel dx="1944" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1316" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,8 +40,8 @@
         <mxCell id="g-n3ValnLm8aZ3QtFes6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="iwBYStO_40tfpdYds1Tp-29" target="CYYpIv-HnM-2PHfvu33v-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="1170" />
-              <mxPoint x="160" y="650" />
+              <mxPoint x="140" y="1170" />
+              <mxPoint x="140" y="650" />
               <mxPoint x="1210" y="650" />
             </Array>
           </mxGeometry>
@@ -330,6 +330,12 @@
         </mxCell>
         <mxCell id="g-n3ValnLm8aZ3QtFes6-35" value="needs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1090" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g-n3ValnLm8aZ3QtFes6-40" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g-n3ValnLm8aZ3QtFes6-41" value="1..1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
