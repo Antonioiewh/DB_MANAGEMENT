@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="pgiMqyUjf4aCU3Kz9-66">
-    <mxGraphModel dx="2755" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="500" math="0" shadow="0">
+    <mxGraphModel dx="2296" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,25 +92,25 @@
           <mxGeometry x="670" y="1030" width="200" height="280" as="geometry" />
         </mxCell>
         <mxCell id="iwBYStO_40tfpdYds1Tp-39" value="Checkup_doctor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="iwBYStO_40tfpdYds1Tp-35" vertex="1">
-          <mxGeometry y="40" width="110" height="30" as="geometry" />
+          <mxGeometry y="70" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iwBYStO_40tfpdYds1Tp-40" value="Desc_of_symptoms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="iwBYStO_40tfpdYds1Tp-35" vertex="1">
-          <mxGeometry y="70" width="130" height="30" as="geometry" />
+          <mxGeometry y="100" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iwBYStO_40tfpdYds1Tp-41" value="Diagnosis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="iwBYStO_40tfpdYds1Tp-35" vertex="1">
-          <mxGeometry y="100" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="iwBYStO_40tfpdYds1Tp-42" value="Consultation_number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="iwBYStO_40tfpdYds1Tp-35" vertex="1">
-          <mxGeometry y="130" width="140" height="30" as="geometry" />
+          <mxGeometry y="130" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iwBYStO_40tfpdYds1Tp-45" value="Consultation_charge" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="iwBYStO_40tfpdYds1Tp-35" vertex="1">
-          <mxGeometry x="5" y="160" width="130" height="30" as="geometry" />
+          <mxGeometry y="160" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iwBYStO_40tfpdYds1Tp-46" value="Checkup_date" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="iwBYStO_40tfpdYds1Tp-35" vertex="1">
-          <mxGeometry x="5" y="190" width="100" height="30" as="geometry" />
+          <mxGeometry y="190" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iwBYStO_40tfpdYds1Tp-48" value="Checkup_time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="iwBYStO_40tfpdYds1Tp-35" vertex="1">
-          <mxGeometry x="5" y="220" width="100" height="30" as="geometry" />
+          <mxGeometry y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNOakbocs3HTBmzyVE6b-1" value="Consultation_No {PK}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iwBYStO_40tfpdYds1Tp-35">
+          <mxGeometry y="40" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SlIInPcPAZ8TnYqFgtZE-3" value="manages" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="505" y="730" width="70" height="30" as="geometry" />
